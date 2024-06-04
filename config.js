@@ -1,5 +1,5 @@
 /** enter owner number */
-global.owner = ['6281252848955']
+global.owner = ['6285656715298']
 /** https://api.alyachan.pro/pricing */
 global.APIs = {
   alya: 'https://api.alyachan.dev'
@@ -9,13 +9,13 @@ global.APIKeys = {
 }
 /** option setting */
 global.set = {
-  wm: `© moon-bot v${require('./package.json').version}`,
+  wm: `© Sakia-bot v${require('./package.json').version}`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
   packname: 'Sticker By',
-  author: 'moon-bot'
+  author: 'Sakia-bot'
 }
 /** enter your bot number to login using the code */
-global.pairingNumber = 6283867587556
+global.pairingNumber = 6285656715298
 /** enter your replit link, so it's active 24/7 */
 global.replit_url = ''
 /** the bigger it gets the harder it is to level up */
