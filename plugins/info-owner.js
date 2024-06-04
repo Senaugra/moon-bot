@@ -7,8 +7,8 @@ let handler = async (m, {
     about: 'Owner & Creator'
   }], m, {
     org: 'Moon Support',
-    website: 'https://api.alyachan.pro',
-    email: 'contact@moonx.my.id'
+    website: 'https://okep.com',
+    email: 'vampire.my.id'
  })
 }
 handler.help = ['owner']
