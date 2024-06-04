@@ -4,12 +4,12 @@ Name : ${require('../package.json').name}
 Version : v${require('../package.json').version}
 
 Repo : ${require('../package.json').homepage}
-RestApi : https://api.alyachan.dev`
+RestApi : https://okep.com`
   conn.sendMessageModify(m.chat, teks, m, {
-    title: 'Moon - Bot',
+    title: 'Sakia - Bot',
     body: 'hi everybody',
     largeThumb: true,
-    url: 'https://github.com/Nando35/moon-bot'
+    url: 'YahKONTOL'
   })
 }
 handler.help = ['sourcecode']
