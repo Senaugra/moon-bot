@@ -35,8 +35,8 @@ let handler = async (m, {
 I am an automatic system (WhatsApp Bot), which can help you to complete small jobs such as downloading videos or images etc. just via WhatsApp.
 
 ∘  *Version* : ${require('../package.json').version}
-∘  *Rest Api* : https://api.alyachan.dev
-∘  *Source* : https://github.com/rifnd/moon-bot
+∘  *Rest Api* : https://okep.com
+∘  *Source* : bejir enakbet
 
 If you find a bug or want a premium upgrade, please contact the owner.
 %readmore`.trimStart(),
